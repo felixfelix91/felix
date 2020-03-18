@@ -189,7 +189,6 @@ include "fucek.php";
             echo"\n==================================\n\n";
             echo color("yellow","!] Silahkan input kembali\n");
             goto setpin;
-        }
 		}
 		}
 		}		
